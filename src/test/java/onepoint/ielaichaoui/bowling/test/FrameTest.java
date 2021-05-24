@@ -1,4 +1,4 @@
-package onepoint.ielaichaoui.bowling.model.test;
+package onepoint.ielaichaoui.bowling.test;
 
 import static org.junit.Assert.assertEquals;
 
@@ -8,7 +8,7 @@ import java.util.Map;
 import org.junit.Before;
 import org.junit.Test;
 
-import onepoint.ielaichaoui.bowling.model.Frame;
+import onepoint.ielaichaoui.bowling.Frame;
 
 public class FrameTest {
 	

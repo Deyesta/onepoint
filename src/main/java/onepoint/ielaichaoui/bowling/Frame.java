@@ -1,8 +1,10 @@
-package onepoint.ielaichaoui.bowling.model;
+package onepoint.ielaichaoui.bowling;
 
 import java.util.List;
 
 import onepoint.ielaichaoui.bowling.converter.FrameConverter;
+import onepoint.ielaichaoui.bowling.model.IRoll;
+import onepoint.ielaichaoui.bowling.model.Strike;
 
 public class Frame {
 	private static final FrameConverter frameConverter = new FrameConverter();
